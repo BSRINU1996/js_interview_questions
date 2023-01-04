@@ -1,0 +1,2 @@
+currently iam learning about  the AJAX Calls.
+AJAX is used to get data from the web server and to send data to web server, without refrershing or reloading the entire WebPage  

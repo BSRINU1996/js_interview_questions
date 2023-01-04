@@ -1,0 +1,8 @@
+.container {
+    text-align: center;
+}
+
+#countValue {
+    font-size: 100px;
+    color: blueviolet
+}
